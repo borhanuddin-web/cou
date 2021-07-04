@@ -108,7 +108,7 @@ max-width: 800px;
 .down-header ul li{
     display: inline-block;
     background: #004884;
-    padding: 5px 24px;
+    padding: 5px 23px;
     margin-right: -6px;
     border: 1px solid #39678a;
     position: relative;
@@ -350,7 +350,7 @@ font-weight: bold;
     width: 100%;
 }
 .read-more p{
-    width: 33%;
+    width: 34%;
     margin: 10px 15px;
     padding: 5px 15px;
     background: rgb(8, 6, 160);
@@ -604,4 +604,9 @@ float: left;
 .bottom-fotter strong{
     color: rgb(235, 235, 235);
     font-size: 13px;
+}
+.bm-footer-right strong a{
+	text-decoration:none;
+	color:rgb(235, 235, 235);
+	
 }
